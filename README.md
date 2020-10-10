@@ -4,6 +4,9 @@ I am developing salmobase2 (https://salmobase.org/) as part of the ELIXIR Norway
 
 The project is hosted here https://gitlab.com/elixir-nmbu/salmobase2 
 
+
+![schema](img/schema.jpg "salmobase2")
+
 Here are some of the webpages and utilities you can find when visiting salmobase.org
 
 ![webpages](img/web_interface.jpg "salmobase web interface and web pages")

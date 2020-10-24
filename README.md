@@ -1,6 +1,6 @@
 #### Salmobase: an integrative omics data resource for salmonids centred on genome organization  and evolution  
 ---
-I am developing salmobase2 (https://salmobase.org/) as part of the ELIXIR Norway services. Currently salmobase is down due to server update. It will be again up and running soon
+I am developing salmobase2 (https://salmobase.org/) as part of the ELIXIR Norway services. 
 
 The project is hosted here https://gitlab.com/elixir-nmbu/salmobase2 
 

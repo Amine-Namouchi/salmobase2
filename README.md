@@ -4,7 +4,7 @@ I am developing salmobase2 (https://salmobase.org/) as part of the ELIXIR Norway
 
 The project is hosted here https://gitlab.com/elixir-nmbu/salmobase2 
 
-follow us on Twitter for last updates: https://twitter.com/salmobase1
+Follow us on Twitter for last updates: https://twitter.com/salmobase1
 
 
 ![schema](img/schema.jpg "salmobase2")
